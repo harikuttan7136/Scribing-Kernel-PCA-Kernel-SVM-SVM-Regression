@@ -1,3 +1,4 @@
+Everything is available at github:https://github.com/harikuttan7136/Scribing-Kernel-PCA-Kernel-SVM-SVM-Regression
 Lecture Scribe.pdf: Final scribing report
 Lecture scribe Folder: Contains all the images and the latex .tex file
 References: Conatains all the references mentioned in the Bibliography section
